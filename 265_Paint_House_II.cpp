@@ -42,7 +42,7 @@ public:
     }
 };
 
-//  solution 2
+//  solution 2 
 class Solution {
 public:
     int minCostII(vector<vector<int>>& costs) {
